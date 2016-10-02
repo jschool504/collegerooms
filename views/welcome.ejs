@@ -1,0 +1,13 @@
+<% include ./partials/header %>
+	<form action="/search" method="get">
+		<input type="text" placeholder="Enter search..." name="q">
+		<input type="submit" value="Submit">
+	</form>
+	<% for (i in rows) { %>
+		<p><b><a href="<%= rows[i].ID %>/show"><%= rows[i].FACILITY_NAME %></a></b> <em>(<%= rows[i].NAME %>)</em></p>
+		<p><%= rows[i].STREET_ADDRESS %></p>
+		<p><%= rows[i].DAILY_RATE %></p>
+		<p><%= rows[i].AMENITIES %></p>
+		<hr>
+	<% } %>
+<% include ./partials/footer %>

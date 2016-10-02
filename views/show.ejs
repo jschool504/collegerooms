@@ -1,0 +1,17 @@
+<a href="/">Home</a>
+<% include ./partials/header %>
+	<h1><%= location.FACILITY_NAME %></h1>
+	<p><em>(<%= location.NAME %>)</em></p>
+	<p><%= location.DAILY_RATE %> - <a href="<%= location.RESERVATION_SITE %>"><%= location.RESERVATION_SITE %></a></p>
+	<h4>AMENITIES</h4>
+	<p><%= location.AMENITIES %></p>
+	<h4>ACCOMMODATIONS</h4>
+	<p><%= location.ACCOMMODATIONS %></p>
+	<h4>ACTIVITIES</h4>
+	<p><%= location.ACTIVITIES %></p>
+	<div>
+		<p><b>PARKING:</b> <%= location.PARKING %></p>
+		<p><b>DINING:</b> <%= location.DINING %></p>
+		<p><b>AVAILABILITY:</b> <%= location.DATES_AVAILABLE %></p>
+	</div>
+<% include ./partials/footer %>

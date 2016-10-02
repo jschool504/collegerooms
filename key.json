@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "collegerooms-144917",
+  "private_key_id": "c728ea79b7de257d9a0d17905e23584bca10054b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1v4CinAo64Cug\nSDI8RTPPjpUFg38lP6KX6cDLCLKMIxTbAVKnCbJ3KFNXMM0xtjynY9o+Z3AgVW33\nUmLcbSVnEQal4SbOO9nfERA0L1AFtsGzDWt8lJidh2u7JHbFogUJ08A4Q3Ys77cg\nNm9U3hQ3pIVUbI5gIAaeG/efU/gIFkeimtC1316sxPH3shBq67Mlw8sBx7ekCcNc\n3NOiaObeFV250dyrmKEeHJmEfAD8bvZ1suRs3KwGFpe3pjEdNi6TmmKSSqIpFFPV\nOvuXgE73psqBOZlq8z0J17U0hpAW6W5+8oPiOH3iWdzlyxXZ6rhwSumZ6FcdbGUq\nddeGq9s1AgMBAAECggEAOLWdTJ/FrWM/GY8NZbLuHKhPpV3HcXbuo9oDFxcKpyFX\nI5LBGG+1KOsDPiRzEjzbphtJAMnDucMOQeqKAF9qGUO9wEqFkjoonCq11KKipHXG\n8LiSPlgbWqPjoIwbJ0WLrupMgwHBwPm3OSzjBicZRddm5tXMgv/bMMBnPmaz8MmE\nKkHkYwPSyDreRRQQhFVfa4M0dTZuUlizvNInBf1Wf4kOrUWojQXM1+lgpbRaRoGv\n0U9jqk4BRpd5j+wl8rImgWLYGU32sxszhxSBo7pRv9fu10f7FsFSCfCCTvowlgKN\n4GJU+nTwBHI96+vkJ0EmDfzBanx+ri9g8k+dKFz34QKBgQDhPEo4Gq2h0CFYVD5t\nLwk1w9iKt9vv+x7YFVBAwCPZDoRbAMmM3rSCz8KAJMQZwV9fNZWF2Q2Hl6e/0MVq\n9fBEnkuf3Rl6D0aVzE/k63J/gOY8W67FDWNvRh+QfoWG9iBPlTJWG0IDvzbINmc6\nAEUINrNxW977GpGdA6G/5F7JaQKBgQDOkpstC2lZdfNTu7v6KRhcpZng2gDEe5lI\nLRKqivusnYI8UX8eZ5IiKl6mJgGKOqxcj8hg7BjPHqpU3G2mwgGO03oh9m1vcgal\nQZ3AAB6EaSXmbXdFM7sVmFJfrn+7numL11uVoxWksmaQ28jcWV/Q9ddsiLnJcXvc\njIaBq3ad7QKBgQCnUpCYaUlAAkwjQEI3/k9LP7ioJLog518ci4jY8WQwJZaxvD3+\nhpt26jzF0YpUz9C3/CieDIb+ie02lDN0qEvbzfTESA5bHOoE8okPuNGQYwOnJz0I\nak/KJD/iqfssLcAHHwEL8qfx/KUHy1KYRgcCeRCJUASwaiZujHonAdJgsQKBgCLF\nDHd1f0L+lnlWlRpTRnV5rj/pkc2AnFlItOadxCTW0jAC66mbdz5m8U14AjRZEd/2\nl5ywwLBEEhl8jLxP1WFL+Te0OdFTWQkB1WKW4owZArcZX8T3IxtMazkNrxROeDMA\nibrTG3aATME/LTzhkj4i0yLClLrybg2+XXl/+dQ1AoGAIEeBVyczQXNvgLm/BLlo\naO4tVmfMATWDTFH4f4f7jjzMsoXvv14hGdlVl87bESyo4Dr/p8NMpHp4GXVMh6ZO\n4Q226MSekTa23/ZNeexyDFvEyGTbeoJqm7rYhHDFbRr8vgSfmpSDIcvqKyVHQ0th\n9uFRG1TRysMts52OdeLIcSg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "collegerooms-144917@appspot.gserviceaccount.com",
+  "client_id": "114988914827019347971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/collegerooms-144917%40appspot.gserviceaccount.com"
+}
