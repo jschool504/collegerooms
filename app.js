@@ -22,13 +22,13 @@ app.get("/", function(request, response) {
 });
 
 app.get("/search", function(request, response) {
-	connection.query("SELECT * FROM Colleges WHERE name LIKE '%" + request.query.q + "%'", function(err, rows) {
+	connection.query("SELECT * FROM Colleges WHERE search_field LIKE '%" + helpers.escapeSQLString(request.query.q) + "%'", function(err, rows) {
 		response.render("welcome", {rows:rows});
 	});
 });
 
 app.get("/:id/show", function(request, response) {
-	connection.query("SELECT * FROM Colleges WHERE id LIKE '" + request.params.id + "'", function(err, rows) {
+	connection.query("SELECT * FROM Colleges WHERE id LIKE '" + helpers.escapeSQLString(request.params.id) + "'", function(err, rows) {
 		response.render("show", {location:rows[0]});
 	});
 });
